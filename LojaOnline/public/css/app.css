@@ -1,0 +1,19 @@
+.bg-secondary {
+    background: linear-gradient(#11181f, #2a333e);
+    }
+    .copyright {
+    background-color: #1a252f;
+    }
+    .bg-primary {
+    background-color: #11181f !important;
+    }
+    nav{
+    font-weight: 700;
+    }
+    .img-card{
+    height: 18vw;
+    object-fit: cover;
+    }
+    .container a {
+        color: red
+    }
